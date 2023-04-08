@@ -23,4 +23,4 @@ git clone https://github.com/rootkarthick/fun.git
 cd fun && chmod +x fun.sh.x && ./fun.sh.x
 
 
-# Thanks for installation my fun tool
+#  crazy TOOL 
